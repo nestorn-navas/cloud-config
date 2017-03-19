@@ -2,7 +2,7 @@
 ---
 lucky-word: Irish
 base:
-    config:
-        a: nestorn
-        b: navas
+  config:
+    a: nestorn
+    b: navas
     
