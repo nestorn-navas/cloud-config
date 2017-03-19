@@ -1,5 +1,6 @@
 #Demo
 ---
+lucky-word: Irish
 base:
     config:
         a: nestorn
