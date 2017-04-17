@@ -2,7 +2,7 @@
 ---
 wordConfig: 
   lucky-word: Irish
-  preamble: Preamble II test
+  preamble: Preamble III
   base:
     config:
       a: setting A
